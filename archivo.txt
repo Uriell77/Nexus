@@ -25,3 +25,4 @@
 000025 Moby Cachalote Dick Ballena 1478524 12/06/1990 Masculino 
 000026 Ludovico Johannsend De La Hermosa Chirinovsky 65845222 30/11/1998 Masculino 
 000027 Dick Ricardo Greison Tapia 213213165 12/12/1900 gotica Masculino ricktap@gotic.com 
+000028 Asd Dqw 5455 01/03/1998 asda Masculino asdasd 

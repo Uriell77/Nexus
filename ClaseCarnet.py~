@@ -105,7 +105,7 @@ def promedio(note):
 class Ficha_Personal(object):
     global grupo
     
-    def __init__(self, padre, command):
+    def __init__(self, padre, command, grupo, cero):
         global dat
         global fp
         global equis
